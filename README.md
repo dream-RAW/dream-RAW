@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dream-RAW
+- 👋 Hi, I’m @Data_Analyst at Accenture
 - 👀 I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently working as data Analytics in Accenture.
 - 📫 How to reach me ...
